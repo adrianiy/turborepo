@@ -20,6 +20,9 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@module-federation/nextjs-mf": "^6.2.1",
+    "web": "^0.0.0"
+  },
   "packageManager": "npm@8.15.0"
 }
